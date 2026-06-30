@@ -42,38 +42,41 @@ How are promotions distributed throughout the dataset?
 Are there any unusual patterns or outliers in sales or inventory?
 
 # KPIs
-Total Revenue
-Total Units Sold
-Average Selling Price
-Inventory Turnover Ratio
-Stockout Rate
-Promotion Sales Lift (if the dataset supports it)
-Best Performing Store
-Best Performing Product Category
+ Total Revenue
+ Total Units Sold
+ Average Selling Price
+ Total Inventory Level
+ Best Performing Store (by Revenue)
+ Best Performing Product Category (by Revenue)
+ Promotion Sales Lift (if supported by the data)
+ Stockout Rate (with a clearly documented definition)
 
 
 # Business Analysis
 
-# Inventory
+# Inventory Analysis
 Which products are frequently at risk of stockout?
 Which products are consistently overstocked?
 Which stores require more frequent inventory replenishment?
 
-# Sales
+# Sales Performance
 Which products generate the highest revenue?
 Which product categories contribute the most revenue?
-Which stores perform the best and worst?
+Which store generates the highest revenue?
+Which store generates the lowest revenue?
 
-# Promotions
-Do promotions significantly increase sales?
-Which categories benefit the most from promotions?
+# Promotion Analysis
+Do promotions significantly increase revenue?
+Which product categories benefit the most from promotions?
 
 # Pricing & Demand
 Does competitor pricing appear to influence demand?
+How accurate are demand forecasts compared to actual units sold?
 
-# Seasonality
-How do holidays and seasons affect demand?
+# Seasonality Analysis
+Which season records the highest demand?
+Do holidays and promotions increase demand?
 
-# Recommendations
+#Business Recommendations
 Which products should be prioritized for restocking?
 Which products or categories should have their inventory reduced?
